@@ -30,9 +30,11 @@
     "13": "Un bon droïde pour la coordination des attaques. Pas bon au combat, juste bon à la planification."
     },
     "Navbar": {
+    "_LRM_RESEND": "This message will be included in the LRM notification email",
     "searchPlaceholder": "Que cherchez-vous?",
     "searchButtonLabel": "Recherche de produits",
     "logoAlt": "Rebel Outfitters Logo",
+    "_LRM_RESEND": "Another message. Could include instructions for updating the string.",
     "searchIconAlt": "icône de recherche",
     "greetingText": "Salut, Han",
     "historyLink": "HISTORIQUE DES COMMANDES",
