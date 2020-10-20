@@ -2,20 +2,15 @@
     "title": {
     "1": "3P0 Droid",
     "2": "Droid série DUM",
-    "_LRM_RESEND744":" LQA-||masnes@lingoport.com||Medical instead of Surgical||2-1B Droid médical",
-    "_LRM_RESEND18":" LQA-||masnes@lingoport.com||Use Medical Droid rather than Surgical Droid||2-1B Droid médical",
-    "_LRM_RESEND303":" LQA-||masnes@lingoport.com||2-1B should be at the end of the text||Droid médical 2-1B",
     "3": "Droid chirurgical 2-1B",
     "4": "Droid IG-88B",
     "5": "Sphyrna Corvette",
     "6": "Droid de réparation G2",
     "7": "CR90 Corvette",
-    "_LRM_RESEND70":" LQA-||masnes@lingoport.com||'Vélo Speeder 74-Z' should have the speeder removed.||Vélo 74-Z",
     "8": "Vélo Speeder 74-Z",
     "9": "ETA-2 intercepteur",
     "10": "Droid série R3",
     "11": "T-70 X-Wing",
-    "_LRM_RESEND262":" LQA-||masnes@lingoport.com||Change 'Combattant Y-Wing' to just 'Y-Wing'||Y-Wing",
     "12": "Combattant Y-Wing",
     "13": "Droid Super tactique"
     },
@@ -31,7 +26,6 @@
     "9": "Mesurant 5,47 mètres de long, l'ETA-2 est un chasseur d'étoiles orienté au combat et extrêmement maniable. Il est plus rapide que son prédécesseur Aethersprite. Ses moteurs à deux ions offrent une accélération maximale de 5 200 G et une vitesse maximale de 1 500 km / h. L'Eta-2 est doté d'ailes avec panneaux de radiateur supérieur et inférieur, feuilles S, qui s'ouvrent pour dissiper l'excès de chaleur des moteurs du navire. Les ailes de radiateur sont principalement ouvertes lors de combats intenses. Pour la défense, le navire comportait deux canons laser et deux canons à ions. Contrairement aux canons laser, les canons à ions du navire tirent des rafales de plasma qui provoquent des perturbations électriques temporaires de la cible au moment de l'impact.",
     "10": "Le droïde astromech de la série R3 présente une grande partie du même matériel que son prédécesseur, l’unité R2, qui ne manque que du capteur vidéo extensible du droïde précédent. Le châssis du R3 est en grande partie cylindrique et se présente sous la forme d’un tube vertical muni d’un cône tronqué et court à la base. Tenant le droïde debout, deux jambes étroites se terminent par un pied fileté en forme de prisme trapézoïdal. Une troisième jambe est logée dans le corps du droïde et peut être étendue si nécessaire pour offrir une plus grande stabilité. Le design de l’appareil est coiffé d’un dôme robuste, rotatif, en plastex ou transparentiste. L'astromech est scellé pour permettre la fonctionnalité dans le vide de l'espace.",
     "11": "Le T-70 X-wing starfighter est un chasseur stelliforme cruciforme mesurant 12,48 mètres de long et pouvant accueillir un seul droïde astromech à pilote et à chargement par le bas, qui s’insère dans un socle et peut être configuré de manière variable pour différents modèles. Au besoin, le droïde peut piloter le vaisseau sans l'aide d'un pilote et peut même le faire à distance. L'ordinateur de ciblage du navire, les commandes de vol et d'autres instruments de pilotage essentiels sont situés à l'intérieur d'un module de cockpit blindé, sous lequel un ordinateur de vol amovible à refroidissement par liquide aide également le pilote à effectuer des opérations à bord d'un navire. Des panneaux d'accès permettant d'accéder à l'ordinateur et de le stocker existent à l'intérieur du \"nez\" du navire, ainsi qu'un groupe électrogène auxiliaire et une zone de stockage généralement utilisés pour ranger l'équipement de survie. Une petite fenêtre de capteur marque l'emplacement du groupe de capteurs principaux du navire à l'extrémité du nez, situé derrière une balise de détresse. Derrière le pilote, un système de survie intégré permet à l'occupant de respirer dans une atmosphère oxygénée.",
-    "_LRM_RESEND573":" LQA-||masnes@lingoport.com||Add some more text to the start of this content.||Add content to the start. Surnommé affectueusement \"un élément de base\" par les pilotes de Rebel Alliance et de New Republic, le chasseur étoile Y-wing est déployé en tant que chasseur-bombardier, dans le but de se frayer un chemin jusqu'à son objectif, de livrer sa charge d'explosifs puissants et de se défendre à nouveau. . Son armement comprend deux canons laser, deux canons à ions et deux lance-torpilles à protons. Un droïde astromech, tel qu'une unité R2, peut être branché dans une prise située derrière le cockpit pour faire fonction de copilote et gérer les différents systèmes du navire.",
     "12": "Surnommé affectueusement \"un élément de base\" par les pilotes de Rebel Alliance et de New Republic, le chasseur étoile Y-wing est déployé en tant que chasseur-bombardier, dans le but de se frayer un chemin jusqu'à son objectif, de livrer sa charge d'explosifs puissants et de se défendre à nouveau. . Son armement comprend deux canons laser, deux canons à ions et deux lance-torpilles à protons. Un droïde astromech, tel qu'une unité R2, peut être branché dans une prise située derrière le cockpit pour faire fonction de copilote et gérer les différents systèmes du navire.",
     "13": "Un bon droïde pour la coordination des attaques. Pas bon au combat, juste bon à la planification."
     },
@@ -49,8 +43,6 @@
     "navLinkVehicles": "VÉHICULES"
     },
     "Home": {
-    "_LRM_RESEND69":" LQA-||masnes@lingoport.com||A little more oomp||Bienvenue à la merveilleuse Rebel Outfitters",
-    "_LRM_RESEND597":" LQA-||masnes@lingoport.com||Fantastic!||Bienvenue aux fantastiques pourvoiries rebelles!",
     "welcomeMessage": "Bienvenue chez Rebel Outfitters!",
     "welcomeSubtitle": "Nous fournissons tout ce dont vous avez besoin pour affronter l'Empire (et gagner).",
     "symbolAlt": "Symbole monétaire Imperial Credit"
@@ -89,12 +81,10 @@
     "noItemMessage": "Ajoutez des articles au panier pour continuer."
     },
     "ProductShow": {
-    "_LRM_RESEND939":" LQA-||masnes@lingoport.com||Change 'Quantité:' to remove the ':'||Quantité",
     "qtyLabel": "Quantité: ",
     "addToCartLabel": "AJOUTER AU PANIER"
     },
     "Cart": {
-    "_LRM_RESEND673":" LQA-||masnes@lingoport.com||'Chariot' should end in 'e'||Chariote",
     "cartTitle": "Chariot",
     "noItemMsg": "Aucun article dans le panier.",
     "deleteAlt": "Supprimer l'article du panier",
