@@ -129,5 +129,6 @@
         "statusShipped": "Shipped",
         "statusDelivered": "Delivered"
     },
-    "Special": "Special"
+    "Special": "Special",
+    "New One": "A new string to translate."
 }
