@@ -130,5 +130,6 @@
     "statusDelivered": "Geliefert"
     },
   "Special": "Spezielle",
-  "New One": "Eine neue Zeichenfolge, die übersetzt werden soll."
+  "New One": "Eine neue Zeichenfolge, die übersetzt werden soll.",
+  "New Two": "Eine zweite neue Zeichenfolge zu übersetzen."
 }

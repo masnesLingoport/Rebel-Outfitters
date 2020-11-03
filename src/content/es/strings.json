@@ -130,5 +130,6 @@
     "statusDelivered": "Entregado"
     },
   "Special": "Especial",
-  "New One": "Una nueva cadena para traducir."
+  "New One": "Una nueva cadena para traducir.",
+  "New Two": "Una segunda cadena nueva para traducir."
 }

@@ -130,5 +130,6 @@
     "statusDelivered": "配信済み"
     },
   "Special": "特別",
-  "New One": "翻訳する新しい文字列。"
+  "New One": "翻訳する新しい文字列。",
+  "New Two": "翻訳する 2 番目の新しい文字列。"
 }
