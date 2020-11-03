@@ -130,5 +130,6 @@
         "statusDelivered": "Delivered"
     },
     "Special": "Special",
-    "New One": "A new string to translate."
+    "New One": "A new string to translate.",
+    "New Two": "A second new string to translate."
 }
